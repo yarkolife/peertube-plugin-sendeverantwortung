@@ -34,9 +34,15 @@
   "library": "./main.js",
   "scripts": {
     "prepare": "npm run build",
-    "build": "node ./scripts/build.js"
+    "build": "node ./scripts/build.js",
+    "postinstall": "npm run build"
   },
   "staticDirs": {},
   "translations": {},
-  "dependencies": {}
+  "dependencies": {
+    "esbuild": "^0.19.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.0"
+  }
 }
