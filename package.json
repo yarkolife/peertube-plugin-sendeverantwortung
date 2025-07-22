@@ -2,10 +2,10 @@
   "name": "peertube-plugin-sendeverantwortung",
   "description": "PeerTube plugin для отображения информации о Sendeverantwortung.",
   "version": "1.0.0",
-  "author": "YourName",
+  "author": "yarkolife",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/peertube-plugin-sendeverantwortung.git"
+    "url": "https://github.com/yarkolife/peertube-plugin-sendeverantwortung.git"
   },
   "license": "AGPL-3.0",
   "clientScripts": [
