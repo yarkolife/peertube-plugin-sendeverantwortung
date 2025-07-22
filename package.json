@@ -1,7 +1,7 @@
 {
   "name": "peertube-plugin-sendeverantwortung",
   "description": "PeerTube plugin для отображения информации о Sendeverantwortung.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "yarkolife",
   "repository": {
     "type": "git",
@@ -34,8 +34,7 @@
   "library": "./main.js",
   "scripts": {
     "prepare": "npm run build",
-    "build": "node ./scripts/build.js",
-    "postinstall": "npm run build"
+    "build": "node ./scripts/build.js"
   },
   "staticDirs": {},
   "translations": {},
