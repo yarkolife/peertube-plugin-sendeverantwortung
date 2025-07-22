@@ -39,10 +39,7 @@
   },
   "staticDirs": {},
   "translations": {},
-  "dependencies": {
-    "esbuild": "^0.19.0"
-  },
   "devDependencies": {
-    "esbuild": "^0.19.0"
+    "esbuild": "^0.19.12"
   }
 }
